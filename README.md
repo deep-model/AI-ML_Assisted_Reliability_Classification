@@ -13,7 +13,7 @@ daily—most of which remains unanalyzed. In chemical and process industries, sm
 SCADA), rotating equipment sensors, and safety systems continuously generate high-frequency operational data streams that 
 exceed traditional analytical capabilities.
 
-<img width="600" height="400" alt="image" src="" />
+<img width="600" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/ONLY%20Proof%20Test.jpg" />
 
 My work demonstrates how integrating AI/ML into Reliability-Centered Maintenance (RCM) frameworks enables predictive and 
 prescriptive maintenance strategies that improve safety, reduce downtime, and optimize asset lifecycle management. A structured 
