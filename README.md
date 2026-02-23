@@ -17,7 +17,7 @@ anomaly detection, and real-time monitoring. A case study utilizing a Multi-Laye
 instrument failure prediction is presented, achieving 84% initial classification accuracy across 124,495 devices and 12 monitored 
 features. Model performance metrics, confusion matrix evaluation, and neural network challenges are discussed.
 
-<img width="600" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Risk.jpg" />
+<img width="500" height="300" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Risk.jpg" />
 
 
 <img width="900" height="600" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/ONLY%20Proof%20Test.jpg" />
