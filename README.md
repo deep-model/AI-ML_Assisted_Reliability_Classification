@@ -1,6 +1,6 @@
 # Integrating Artificial Intelligence in Process Reliability & Operations
 
-<img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/177e8bf7-9c39-4809-89df-5ed2ebf30697" />
+<img width="600" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/RCM%20AI-ML%20Integration.jpg" />
 # Abstract
 
 This presentation, “Integrating Artificial Intelligence in Process Reliability & Operations” explores the transformative role 
