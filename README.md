@@ -9,9 +9,9 @@ SCADA), rotating equipment sensors, and safety systems continuously generate hig
 exceed traditional analytical capabilities.
 
 <p align="left">
-  
+ <img width="800" height="900" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/ONLY%20Proof%20Test.jpg" /> 
 <img width="400" height="300" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Risk.jpg" />
-<img width="400" height="300" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/ONLY%20Proof%20Test.jpg" />
+
 
 </p>
 
