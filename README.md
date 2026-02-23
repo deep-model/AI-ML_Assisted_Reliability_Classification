@@ -1,8 +1,8 @@
 # Integrating Artificial Intelligence in Process Reliability & Operations
 
 <img width="600" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/RCM%20AI-ML%20Integration.jpg" />
-# Abstract
 
+# Abstract
 This presentation, “Integrating Artificial Intelligence in Process Reliability & Operations” explores the transformative role 
 and integration of Artificial Intelligence (AI) and Machine Learning (ML) into modern industrial process reliability, safety, 
 and asset performance strategies. Moreover, as computing power accelerates under Moore’s Law and emerging quantum computing 
