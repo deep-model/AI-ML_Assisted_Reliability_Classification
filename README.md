@@ -8,12 +8,6 @@ daily—most of which remains unanalyzed. In chemical and process industries, sm
 SCADA), rotating equipment sensors, and safety systems continuously generate high-frequency operational data streams that 
 exceed traditional analytical capabilities.
 
-<p align="left">
- <img width="700" height="900" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/ONLY%20Proof%20Test.jpg" /> 
-<img width="300" height="300" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Risk.jpg" />
-
-
-</p>
 
 <img width="800" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/RCM%20AI-ML%20Integration.jpg" />
 
