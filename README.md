@@ -23,7 +23,7 @@ instrument failure prediction is presented, achieving 84% initial classification
 features. Model performance metrics, confusion matrix evaluation, and neural network challenges are discussed.
 
 
-<img width="600" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/AI-ML%20Failure%20Patterns.jpg" />
+<img width="800" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/AI-ML%20Failure%20Patterns.jpg" />
 
 Additionally, the presentation examines AI/ML applications in failure pattern detection and introduces the concept of AI as 
 an Independent Protection Layer (IPL) for real-time safety integrity monitoring. By leveraging predictive analytics, 
