@@ -1,5 +1,7 @@
-[Veiw Project White Paper PDF](https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Integrating%20Artificial%20Intelligence%20Process%20Reliability%20%26%20Operations.pdf)
-# Integrating Artificial Intelligence in Process Reliability & Operations
+# Integrated Artificial Intelligence Reliability Centered Maintenance & Operations
+
+## [Veiw Project White Paper PDF](https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Integrating%20Artificial%20Intelligence%20Process%20Reliability%20%26%20Operations.pdf)
+## [Veiw Entire Project List](https://github.com/deep-model?tab=repositories)
 # Abstract
 This presentation, “Integrating Artificial Intelligence in Process Reliability & Operations” explores the transformative role 
 and integration of Artificial Intelligence (AI) and Machine Learning (ML) into modern industrial process reliability, safety, 
