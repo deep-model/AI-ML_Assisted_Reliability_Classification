@@ -4,7 +4,7 @@
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 # Abstract
 This project explores the transformative role of AI/ML in modern industrial reliability strategies, and the effects on safety, 
-and asset performance strategies. Moreover, as computing power accelerates under Moore’s Law and with emerging quantum computing 
+and asset integrity performance. Moreover, as computing power accelerates under Moore’s Law and with emerging quantum computing 
 capabilities promising exponential gains, industry faces unprecedented volumes of data—estimated at quintillions of bytes 
 daily—most of which remains unanalyzed. In chemical and process industries, smart instrumentation, control systems (DCS, PLC, 
 SCADA), rotating equipment sensors, and safety systems continuously generate high-frequency operational data streams that 
