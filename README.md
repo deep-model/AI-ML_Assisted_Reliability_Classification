@@ -3,10 +3,9 @@
 ## [Veiw Project White Paper PDF](https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Integrating%20Artificial%20Intelligence%20Process%20Reliability%20%26%20Operations.pdf)
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
 # Abstract
-This presentation, “Integrating Artificial Intelligence in Process Reliability & Operations” explores the transformative role 
-and integration of Artificial Intelligence (AI) and Machine Learning (ML) into modern industrial process reliability, safety, 
-and asset performance strategies. Moreover, as computing power accelerates under Moore’s Law and emerging quantum computing 
-capabilities promise exponential gains, industry faces unprecedented volumes of data—estimated at quintillions of bytes 
+This project explores the transformative role of AI/ML in modern industrial reliability strategies, and the effects on safety, 
+and asset performance strategies. Moreover, as computing power accelerates under Moore’s Law and with emerging quantum computing 
+capabilities promising exponential gains, industry faces unprecedented volumes of data—estimated at quintillions of bytes 
 daily—most of which remains unanalyzed. In chemical and process industries, smart instrumentation, control systems (DCS, PLC, 
 SCADA), rotating equipment sensors, and safety systems continuously generate high-frequency operational data streams that 
 exceed traditional analytical capabilities.
@@ -14,8 +13,8 @@ exceed traditional analytical capabilities.
 
 <img width="800" height="400" alt="image" src="https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/RCM%20AI-ML%20Integration.jpg" />
 
-My work demonstrates how integrating AI/ML into Reliability-Centered Maintenance (RCM) frameworks enables predictive and 
-prescriptive maintenance strategies that improve safety, reduce downtime, and optimize asset lifecycle management. A structured 
+Further, this project demonstrates how integrating AI/ML into Reliability-Centered Maintenance (RCM) frameworks enables predictive and 
+prescriptive maintenance strategies that improves safety, reduces downtime, and optimizes asset lifecycle management. A structured 
 AI/ML data pipeline is outlined, incorporating data collection, preprocessing, feature engineering, predictive modeling, 
 anomaly detection, and real-time monitoring. A case study utilizing a Multi-Layer Perceptron (MLP) neural network model for 
 instrument failure prediction is presented, achieving 84% initial classification accuracy across 124,495 devices and 12 monitored 
