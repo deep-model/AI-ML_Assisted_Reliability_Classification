@@ -1,4 +1,4 @@
-# Integrated Artificial Intelligence & Reliability Centered Maintenance With Intelligent Operations
+# Integrated Artificial Intelligence & Reliability Centered Maintenance for Intelligent Operations
 
 ## [Veiw Project White Paper PDF](https://github.com/deep-model/Artificial_Neural_Network_Reliability_Classification/blob/main/Integrating%20Artificial%20Intelligence%20Process%20Reliability%20%26%20Operations.pdf)
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
